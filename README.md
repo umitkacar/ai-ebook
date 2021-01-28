@@ -4,4 +4,7 @@ https://www.amazon.com/Cracking-Amazon-Interview-Step-Guide/dp/1724083899/ref=pd
 
 
 ###  Mathematics for Machine Learning
+
 https://mml-book.github.io/
+
+https://github.com/mml-book/mml-book.github.io
