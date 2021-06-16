@@ -11,3 +11,7 @@ https://github.com/mml-book/mml-book.github.io
 
 ## Code Learning
 https://www.hostinger.com/tutorials/learn-coding-online-for-free/
+
+## Deep Learning
+
+https://www.deeplearningbook.org/
